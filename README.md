@@ -1,4 +1,4 @@
-# Sype 👋🏻
+# Sypo 👋🏻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devsypo&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
