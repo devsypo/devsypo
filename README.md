@@ -5,7 +5,7 @@
 
 **Software Developer | Systems & Backend**
 
-Ahoj — I’m **Sype**, a software developer currently working at an institute.  
+Ahoj — I’m **Sypo**, a software developer currently working at an institute.  
 I build efficient, secure, and well-structured systems with a focus on backend logic, networking, and low-level concepts.
 
 ---
